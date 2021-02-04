@@ -1,0 +1,13 @@
+name = "DataDrivenCovidSim"
+uuid = "1a493990-b830-474e-913b-fe2f2752cfe5"
+authors = ["Andreas Koher"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
